@@ -7,7 +7,7 @@ Multipass was installed on the Windows host system to create and manage lightwei
 
 After installation, the Multipass installation was verified using the command-line interface.
 
-![Multipass Installation](ass 4\multipass installation.png)
+![Multipass Installation](<ass 4/multipass installation.png>)
 
 ---
 
@@ -17,7 +17,7 @@ The Multipass installation was verified to ensure that the application was insta
 
 The available Ubuntu images and Multipass environment were checked before launching the required instance.
 
-![Verification of Multipass](ass 4\Verification of multipass.png)
+![Verification of Multipass](<ass 4/Verification of multipass.png>)
 
 ---
 
@@ -33,7 +33,7 @@ multipass list
 multipass shell prabakaran-23cb031
 ```
 
-![Launching Multipass](ass 4\Launching an multipass instance.png)
+![Launching Multipass](<ass 4/Launching an multipass instance.png>)
 
 ## 4. Updating the Package Repository
 
@@ -54,8 +54,8 @@ sudo systemctl status apache2
 ```
 The Apache service was then verified to ensure that the web server was running successfully.
 
-![Updating](ass 4\Updating & installing apache.png)
-![output](ass 4\OUTPUT.png)
+![Updating](<ass 4/Updating & installing apache.png>)
+![output](<ass 4/OUTPUT.png>)
 
 
 ## 6.Web Server Verification
