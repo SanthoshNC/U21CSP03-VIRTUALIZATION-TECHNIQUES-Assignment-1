@@ -66,6 +66,6 @@ curl http://localhost
 ```
 The command successfully returned the HTML content of the Apache2 Ubuntu Default Page, confirming that the web server was running and responding correctly.
 
-![apache](ass 4\Apache on local browser - OUTPUT.png)
+![apache](<ass 4/Apache on local browser - OUTPUT.png>)
 
 
