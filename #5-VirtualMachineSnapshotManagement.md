@@ -35,7 +35,7 @@ The changes were verified before creating the second snapshot.
 After making the required changes, another snapshot was created with the name:
 
 
-![wallpapaer changed](<Ass 5/after.png>)
+![wallpapaer changed](<Ass 5/after .png>)
 ![after creating 2nd snapshot](<Ass 5/After config.png>)
 
 This snapshot represents the state of the virtual machine after the configuration changes were made.
